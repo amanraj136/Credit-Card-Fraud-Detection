@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection — Streamlit App + Scikit-learn
 
-🔗 **Live Demo:**  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-mu9pnztju2nbs7tlyobmfv.streamlit.app/)
+🔗 **Live Demo:**  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-4ja3jvqvkfzxjjgzhqw9sa.streamlit.app/)
 ---
 
 ## Overview
