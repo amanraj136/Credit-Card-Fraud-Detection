@@ -1,10 +1,10 @@
 # Credit Card Fraud Detection — Streamlit App + Scikit-learn
 
-<!-- Badges (add CI/CD, Streamlit, or license badges here when available) -->
-<!-- [![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-orange)](https://streamlit.io) -->
+ Badges (add CI/CD, Streamlit, or license badges here when available)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-orange)](https://streamlit.io)
 
-<!-- Live demo link placeholder -->
-<!-- 🔗 **Live Demo:** [Add your Streamlit deployment URL here once published] -->
+
+🔗 **Live Demo:** [Add your Streamlit deployment URL here once published]
 
 ---
 
